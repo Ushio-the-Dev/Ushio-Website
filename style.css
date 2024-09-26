@@ -37,13 +37,16 @@ button, input, textarea, select {
     background-color: whitesmoke;
     color: #001a23;
     border: 7px double #3066be;
-    margin: 1em;
     padding: 0.5em;
     text-align: center;
     display: flex;
-	justify-content: space-around;
+	  justify-content: space-around;
     width: 25%;
     list-style: none;
+}
+
+.kofi {
+  padding: 1em;
 }
 
 .navbar a{
